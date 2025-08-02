@@ -12,7 +12,7 @@
 - 🔭 Passionate about architecting solutions on AWS (Lambda, S3, EC2, RDS, DynamoDB, and more)
 - 💻 Automating cloud infrastructure with DevOps principles & IaC (CloudFormation, Terraform)
 - 🚀 Love building scalable, secure, fault-tolerant architectures
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [vaibhavb568@gmail.com](mailto:vaibhavb568@gmail.com)
 
 ---
 
