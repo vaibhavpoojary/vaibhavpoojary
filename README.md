@@ -1,8 +1,3 @@
-# Clean & Professional GitHub Profile README
-
-
----
-
 <div align="center">
 
 # 👋 Hi, I'm **Vaibhava Poojary**
@@ -10,8 +5,6 @@
 **Data Scientist | AI-ML Engineer | Generative AI Specialist**
 
 </div>
-
----
 
 ## 🧑‍💻 About Me
 
