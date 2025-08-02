@@ -7,9 +7,7 @@
 
 # 👋 Hi, I'm **Vaibhava Poojary**
 
-**AI-ML Engineer | Generative AI Specialist**
-
-*Crafting intelligent solutions with cutting-edge AI technologies*
+**Data Scientist | AI-ML Engineer | Generative AI Specialist**
 
 </div>
 
@@ -24,6 +22,17 @@ I'm a **results-driven AI-ML Engineer** with **5+ years of experience** speciali
 - Build **intelligent automation workflows** with LangChain and multi-agent orchestration  
 - Develop **cloud-native AI solutions** on AWS with focus on scalability
 - Lead technical teams and mentor engineers in AI/ML best practices
+
+---
+## 🏆 AWS Certifications
+
+<div align="center">
+
+| Solutions Architect | DevOps Engineer | Cloud Practitioner |
+|:---:|:---:|:---:|
+| <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"> | <img src="https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100"> | <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"> |
+
+</div>
 
 ---
 
@@ -77,13 +86,19 @@ I'm a **results-driven AI-ML Engineer** with **5+ years of experience** speciali
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavpoojary&show_icons=true&theme=vue&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=00d9ff&text_color=333333&icon_color=00d9ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavpoojary&layout=compact&langs_count=8&theme=vue&bg_color=ffffff&title_color=00d9ff&text_color=333333"/>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhava-poojary&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhava-poojary&layout=compact&theme=default&hide_border=true"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpoojary&theme=vue&background=ffffff&border=00d9ff&stroke=333333&ring=00d9ff&fire=ff6b35&currStreakNum=333333&sideNums=333333&currStreakLabel=333333&sideLabels=333333&dates=666666" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavpoojary&theme=vue" alt="GitHub Profile Summary" />
 </div>
 
 ---
