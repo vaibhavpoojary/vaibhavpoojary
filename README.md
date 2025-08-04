@@ -108,9 +108,6 @@ I'm a **results-driven AI-ML Engineer** with **5+ years of experience** speciali
 *Always excited to discuss AI innovations and explore collaboration opportunities!*
 
 </div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
