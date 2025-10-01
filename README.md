@@ -4,6 +4,8 @@
 
 **Data Scientist | AI-ML Engineer | Generative AI Specialist**
 
+**Protfolio Link: https://vaibhavpoojary.github.io/**
+
 </div>
 
 ## 🧑‍💻 About Me
